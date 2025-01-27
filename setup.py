@@ -32,12 +32,12 @@ with open('README.md') as f:
 
 
 setuptools.setup(
-    name='gdm-concordia',
+    name='concordia',
     version='1.8.10',
     license='Apache 2.0',
     license_files=['LICENSE'],
-    url='https://github.com/google-deepmind/concordia',
-    download_url='https://github.com/google-deepmind/concordia/releases',
+    url='https://github.com/AMC-NEO/concordia',
+    download_url='https://github.com/AMC-NEO/concordia/releases',
     author='DeepMind',
     author_email='noreply@google.com',
     description=(
